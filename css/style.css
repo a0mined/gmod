@@ -1,0 +1,38 @@
+.header{
+	background: linear-gradient(90deg, #00C4F0 44.11%, rgba(0, 196, 240, 0.00) 100%);
+}
+body{
+	margin: 0;
+}
+.container{
+	margin: 0 auto;
+	max-width: 1230px;
+}
+.header_title{
+	color: #2C2C2C;
+font-family: Nico Moji;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.container_header{
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+.nav_list{
+	padding: 0;
+	list-style: none;
+	display: flex;
+}
+.nav_link{
+text-decoration: none;
+margin-right: 30px;
+color: #2C2C2C;
+font-family: Nico Moji;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
